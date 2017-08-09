@@ -41,7 +41,9 @@ Algebraic and Combinatorial Methods in Stochastic Calculus
 
 ## Interests
  **Logic, Algebra, Topology**: As a Mathematician these are my main fields of interests.
+ 
  **Programming**: Some experience in Haskell, Python, R, Isabelle and Matlab.
+ 
  **Artificial Intelligence**
 
 ## Links
