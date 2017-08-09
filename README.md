@@ -1,6 +1,6 @@
 ## Eduardo Paluzo
 
-[About](#about) | [What am I doing?](#what-am-I-doing) | [Education](#education) | [Language skill](#language-skill) | [Interests](#interests) | [Links](#links)
+[About](#about) | [What am I doing?](#what-am-I-doing-?) | [Education](#education) | [Language skill](#language-skill) | [Interests](#interests) | [Links](#links)
 
 
 Mathematician just graduated and current student at [Logic,computation and AI master](http://master.cs.us.es/Máster_Universitario_en_Lógica,_Computación_e_Inteligencia_Artificial) at Seville University.
