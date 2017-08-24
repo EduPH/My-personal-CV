@@ -17,6 +17,7 @@ Can see my [GitHub](https://github.com/EduPH?tab=repositories) for further infor
 | Repository | Description | 
 |---             |---     |
 |[Lecturas](https://github.com/EduPH/Lecturas) | List of links of interest about several topics. |
+|[Apuntes-IA](https://github.com/EduPH/Apuntes-IA) | Course of Artificial Intelligence. |
 |[IA-Prácticas](https://github.com/EduPH/IA-Practicas) | Code of Artificial Intelligence course. |
 |[Teoría-Matemática](https://github.com/EduPH/Teoria-Matematica) | Compilation of mathematics knowledge. |
 |[LPOenH](https://github.com/EduPH/LPOenH) | First order logic implementation in Haskell. |
