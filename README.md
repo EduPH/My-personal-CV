@@ -22,6 +22,7 @@ Can see my [GitHub](https://github.com/EduPH?tab=repositories) for further infor
 |[Teoría-Matemática](https://github.com/EduPH/Teoria-Matematica) | Compilation of mathematics knowledge. |
 |[LPOenH](https://github.com/EduPH/LPOenH) | First order logic implementation in Haskell. |
 |[ModelosComputacionales](https://github.com/EduPH/ModelosComputacionales) | Implementation of some computational models in Haskell. |
+|[concrete-semantics-Sols](https://github.com/EduPH/concrete-semantics-Sols) | Concrete semantics solutions. |
 |[Problemas](https://github.com/EduPH/Problemas) | Some Kattis problems solutions.|
 
 ## Education
