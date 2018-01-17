@@ -12,7 +12,8 @@ an investigation career.
 
 ## What am I doing?
 
-Can see my [GitHub](https://github.com/EduPH?tab=repositories) for further information.
+I am currently an investigation support technician at Applied Mathematics department at Seville University.
+Can see my [GitHub](https://github.com/EduPH?tab=repositories) for further information of some things I was interested in.
 
 | Repository | Description | 
 |---             |---     |
