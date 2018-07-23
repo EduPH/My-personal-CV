@@ -3,11 +3,11 @@
 [About](#about) | [What am I doing?](#what-am-i-doing) | [Education](#education) | [Language skill](#language-skill) | [Interests](#interests) | [Links](#links)
 
 
-Mathematician just graduated and current student at [Logic,computation and AI master](http://master.cs.us.es/Máster_Universitario_en_Lógica,_Computación_e_Inteligencia_Artificial) at Seville University.
+Mathematician at Seville University. You can see more about me on my [webpage](http://personal.us.es/epaluzo/)
 
 ## About
 
-I am a student interested in improving my programming skills and apply my mathematical knowledge in Artificial Intelligence. My dream is to develop
+I am a researcher interested in improving my programming skills and apply my mathematical knowledge in Artificial Intelligence. My dream is to develop
 an investigation career. 
 
 ## What am I doing?
