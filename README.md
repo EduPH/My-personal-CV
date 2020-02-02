@@ -56,4 +56,9 @@ Algebraic and Combinatorial Methods in Stochastic Calculus
 <img src="http://icon-icons.com/icons2/642/PNG/512/twitter_2_icon-icons.com_59206.png" alt="twitter" hspace="50" height="48" width="48"></a>
 <a href="https://www.linkedin.com/in/eduardo-paluzo-hidalgo-88027a148/">
 <img src="https://seeklogo.com/images/L/linkedin-icon-logo-05B2880899-seeklogo.com.png" alt="linkedin" hspace="50" height="48" width="48"></a>
+ <a href="https://scholar.google.es/citations?user=6xn42ewAAAAJ&hl=es">
+<img src="https://img2.freepng.es/20180525/vfz/kisspng-google-scholar-academic-journal-google-logo-educat-5b07a6f7868cd1.3018773615272281515511.jpg" alt="google_scholar" hspace="50"  height="48"></a>
 </p>
+
+
+
